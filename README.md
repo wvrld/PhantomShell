@@ -18,7 +18,7 @@ To use other forwarded shells you have to edit the script to change the url and 
 
 > Install from source
 ```sh
-git clone 
+git clone https://github.com/wvrld/PhantomShell
 cd PhantomShell
 pip3 install -r requirements
 ```
